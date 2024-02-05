@@ -1,0 +1,13 @@
+ICONS
+0 - hare
+1 - cheshire
+2 - mally
+3 - hatter
+4 - mctwisp
+
+IDS
+0 - mctwisp
+1 - hatter
+2 - cheshire
+3 - hare
+6 - mally
