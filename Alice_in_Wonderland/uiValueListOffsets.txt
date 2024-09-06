@@ -1,0 +1,74 @@
+-- unknown/util
+0x1C8 - opened shop
+0x1D4 - end of tutorial?
+0x1E0 - ???
+0x1E8 - end of vortex tutorial?
+0x32C - end of fight?
+
+-- characters + upgrades
+0x1EC - unlock mctwisp
+0x1F0 - bought mctwisp enemy freeze
+0x1F4 - bought mctwisp back2vortex
+0x1F8 - bought mctwisp 3hit combo
+0x1FC - unlock mally
+0x200 - bought mally 2x speed
+0x204 - bought mally sweep
+0x208 - bought mally finish move
+0x20C - unlocked m hare
+0x210 - bought hare up
+0x214 - bought hare push
+0x218 - bought hare homing dishes
+0x21C - unlocked hatter
+0x220 - bought hatter crush
+0x224 - bought hatter sweep
+0x228 - bought hatter finish move
+0x22C - unlock chessur
+0x230 - bought chessur _
+0x234 - bought chessur _
+0x238 - bought chessur backstab
+
+- these only update when entering shop menu???
+0x384 - general extended life pickup
+0x388 - general i ideas multipler pickup
+0x38C - general switch bomb pickup
+0x390 - mctwisp freeze enemy pickup
+0x394 - mctwisp back2vortex pickup
+0x398 - mctwisp 3hitcombo pickup
+0x39C - mally 2x speed pickup
+0x3A0 - mally sweep pickup
+0x3A4 - mally finish move pickup
+0x3A8 - hare up pickup
+0x3AC - hare push pickup
+0x3B0 - hare homing dishes pickup
+0x3B4 - hatter crush pickup
+0x3B8 - hatter sweep pickup
+0x3BC - hatter finish move pickup
+0x3C0 - chessur invis pickup
+0x3C4 - chessur 3hitcombo pickup
+0x3C8 - chessur backstab pickup
+
+-- achievements
+0x248 - absolem achievement
+0x24C - march hare house achievement
+0x250 - salazen grum achievement
+0x254 - salazen grum potion achievement
+0x258 - stayne achievement
+0x25C - marmoreal achievement
+0x260 - alice armor achievement
+0x264 - round hall achievement
+0x268 - chests achievement
+0x26C - big chests achievement
+0x270 - i ideas achievement
+0x274 - enemies achievement
+0x278 - chess achievement
+0x27C - upgrades achievement
+0x280 - vegetation achievement
+0x284 - furniture achievement
+0x288 - mosquitos achievment
+0x28C - pigs achievement
+0x290 - badgers achievement
+0x294 - birds achievement
+0x298 - clocks achievement
+0x29C - roses achievement
+0x2A0 - statues achievement
+0x2A4 - paintings achievement
